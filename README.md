@@ -1,3 +1,7 @@
+> [!NOTE]
+> This repository is for ROS 2.
+
+
 # Human Navigation Project
 
 This is a Unity project for the Human Navigation task.
