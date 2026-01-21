@@ -6,6 +6,10 @@
 
 This is a Unity project for the Human Navigation task.
 
+In this task, a real person wears a VR headset and enters a virtual environment where the robot is present.   
+The robot gives natural language instructions to the person, who then delivers a specified object to a specified location.  
+This task focuses on understanding the situation and generating appropriate natural language instructions.
+
 See also [wiki page](https://github.com/RoboCupatHomeSim/human-navigation-unity2/wiki).
 
 ## Prerequisites
