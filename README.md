@@ -69,7 +69,7 @@ On the Windows PC, connect your Meta Quest 2/3 to the PC via Meta Horizon Link, 
 3. Click the Play button at the top of the Unity editor.  
 
 ## Task Creation
-Please see [wiki page](https://github.com/RoboCupatHomeSim/human-navigation-unity2/wiki/AdvancedExecutionProcedures) for more details.  
+Please see [wiki page](https://github.com/RoboCupatHomeSim/human-navigation-unity2/wiki) for more details.  
 
 ## Notes
 - The translation feature is currently unavailable.  
